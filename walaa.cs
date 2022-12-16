@@ -16,8 +16,6 @@ class task{
         public int year;
         public float gpa;
         public student( string name , int age , int year , float gpa) : base(name , age){
-            this.name = name;
-            this.age = age;
             this.year = year;
             this.gpa = gpa;
         }
@@ -30,6 +28,17 @@ class task{
         public person[] people = new person[50];
         public void addstudent(student stud){
             people[_currentIndex++] = stud;
+        }
+    }
+    class staff : person{
+        public double salary;
+        public int joinyear;
+        public staff(double salary , int joinyear) : base(name , age){
+            this.salary = salary;
+            this.joinyear = joinyear;
+        }
+        public override void print(){
+            Console.WriteLine("My name is " + name + "My age is " + age +"and my salary is " + salary);
         }
     }
 

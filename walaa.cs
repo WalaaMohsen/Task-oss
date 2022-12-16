@@ -1,6 +1,6 @@
 using System;
 namespace task{
-class task{
+
     class  abstract person{
        public string name;
        public int age;
@@ -26,9 +26,14 @@ class task{
     public class database{
         private int _currentIndex;
         public person[] people = new person[50];
+
         public void addstudent(student stud){
             people[_currentIndex++] = stud;
         }
+        public void addstaff(staff staf){
+            people[_currentIndex++] = staf;
+        }
+
     }
     class staff : person{
         public double salary;
@@ -43,7 +48,9 @@ class task{
     }
 
     }
+    public class task{
     public static void Main(){
+        
 
     }
-}
+    }

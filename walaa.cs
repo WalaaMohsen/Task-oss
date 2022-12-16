@@ -50,7 +50,16 @@ namespace task{
     }
     public class task{
     public static void Main(){
-        
+        var data = new database();
+        Console.WriteLine("Name: ");
+        var _name = Console.ReadLine();
+        Console.WriteLine("Age: ");
+        var _age =Convert.ToInt32( Console.ReadLine());
+        Console.WriteLine("Year: ");
+        var _year = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Gpa: ");
+        var _gpa = Convert.ToSingle(Console.ReadLine());
+        var stud = new student(_name , _age , _year , _gpa);
 
     }
     }

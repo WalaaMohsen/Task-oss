@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\walaa\bin\Debug\net6.0\walaa.exe
+C:\Users\DELL\Desktop\walaa\bin\Debug\net6.0\walaa.deps.json
+C:\Users\DELL\Desktop\walaa\bin\Debug\net6.0\walaa.runtimeconfig.json
+C:\Users\DELL\Desktop\walaa\bin\Debug\net6.0\walaa.dll
+C:\Users\DELL\Desktop\walaa\bin\Debug\net6.0\walaa.pdb
+C:\Users\DELL\Desktop\walaa\obj\Debug\net6.0\walaa.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\walaa\obj\Debug\net6.0\walaa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\walaa\obj\Debug\net6.0\walaa.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\walaa\obj\Debug\net6.0\walaa.AssemblyInfo.cs
+C:\Users\DELL\Desktop\walaa\obj\Debug\net6.0\walaa.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\walaa\obj\Debug\net6.0\walaa.dll
+C:\Users\DELL\Desktop\walaa\obj\Debug\net6.0\refint\walaa.dll
+C:\Users\DELL\Desktop\walaa\obj\Debug\net6.0\walaa.pdb
+C:\Users\DELL\Desktop\walaa\obj\Debug\net6.0\walaa.genruntimeconfig.cache
+C:\Users\DELL\Desktop\walaa\obj\Debug\net6.0\ref\walaa.dll
